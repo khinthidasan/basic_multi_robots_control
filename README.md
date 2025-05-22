@@ -15,12 +15,21 @@ integrated/
 └── cls_seer_robot.py
 └── main.py
 
+
+integratedRobotCtrl/
+├── netprotocol
+      ├── rbkNetProtoEnums.py ( SEER AMR API library )
+├── cls_dobot_robot.py
+├── cls_jibot_robot.py
+├── cls_plc_machine.py
+└── cls_seer_robot.py
+└── main.py
+
 - Run from main.py
 
 Create Conda environment or just in python environment
 install the following under the conda env or python env
 
-pip install paho-mqtt==1.6.1
 pip install pymodbus==3.5.4
 pip install pyserial==3.5
 
