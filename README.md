@@ -6,8 +6,8 @@ Jibot AMR
 PLC Machines
 
 For advanced usage, you can integrate:
-asyncio, threading, multiprocessing
-IoT protocols
+asyncio, threading, multiprocessing,
+IoT concepts,
 Computer vision modules
 Route management etc.,
 
